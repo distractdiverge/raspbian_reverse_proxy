@@ -19,4 +19,4 @@ galaxy_info:
   galaxy_tags: []
 
 dependencies:
-  - name: nginx
+  - name: alexlapinski.ansible_role_raspbian_nginx
